@@ -1,4 +1,4 @@
-# SurfMe (滑水的我)
+# SurfMe (浪荡的我)
 Explore the excitement of outdoor sports, beauty of nature, and bring passion to life
 
 **Questions for yourself (扪心自问)**
