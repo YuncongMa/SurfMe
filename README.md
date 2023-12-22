@@ -17,12 +17,13 @@ Explore the excitement of outdoor sports, beauty of nature, and bring passion to
 2. BBQ
 3. Soup
 4. Coffee
-5. Veggi and Vegan food
+5. Wine
+6. Veggi and Vegan food
 
 **Miscellaneous**
 1. Artwork
 2. Horticulture
-3. Light Deco
+3. Light Decoration
 4. Reading
 
 
