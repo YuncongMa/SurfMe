@@ -11,34 +11,84 @@ How to enjoy more (如何更浪) <br />
 ## Type of Fun
 **Outdoor sport**
 1. Bouldering
+<p align="center">
+  <img src="https://github.com/YuncongMa/SurfMe/assets/20191790/6fd22f3c-eb87-4305-a559-33fa63552207">
+</p>
 2. Top Roping
+<p align="center">
+  <img src="https://github.com/YuncongMa/SurfMe/assets/20191790/6fd22f3c-eb87-4305-a559-33fa63552207">
+</p>
 3. Paddle Boarding
+<p align="center">
+  <img src="https://github.com/YuncongMa/SurfMe/assets/20191790/6fd22f3c-eb87-4305-a559-33fa63552207">
+</p>
 4. Mountain Biking
+<p align="center">
+  <img src="https://github.com/YuncongMa/SurfMe/assets/20191790/6fd22f3c-eb87-4305-a559-33fa63552207">
+</p>
 5. Surfing
+<p align="center">
+  <img src="https://github.com/YuncongMa/SurfMe/assets/20191790/6fd22f3c-eb87-4305-a559-33fa63552207">
+</p>
 6. Off-road Driving
+<p align="center">
+  <img src="https://github.com/YuncongMa/SurfMe/assets/20191790/6fd22f3c-eb87-4305-a559-33fa63552207">
+</p>
 7. Hiking
+<p align="center">
+  <img src="https://github.com/YuncongMa/SurfMe/assets/20191790/6fd22f3c-eb87-4305-a559-33fa63552207">
+</p>
    
 **Food**
 1. Hotpot
+<p align="center">
+  <img src="https://github.com/YuncongMa/SurfMe/assets/20191790/6fd22f3c-eb87-4305-a559-33fa63552207">
+</p>
 2. BBQ
+<p align="center">
+  <img src="https://github.com/YuncongMa/SurfMe/assets/20191790/6fd22f3c-eb87-4305-a559-33fa63552207">
+</p>
 3. Soup
+<p align="center">
+  <img src="https://github.com/YuncongMa/SurfMe/assets/20191790/6fd22f3c-eb87-4305-a559-33fa63552207">
+</p>
 4. Coffee
+<p align="center">
+  <img src="https://github.com/YuncongMa/SurfMe/assets/20191790/6fd22f3c-eb87-4305-a559-33fa63552207">
+</p>
 5. Wine
+<p align="center">
+  <img src="https://github.com/YuncongMa/SurfMe/assets/20191790/6fd22f3c-eb87-4305-a559-33fa63552207">
+</p>
 6. Veggi and Vegan food
+<p align="center">
+  <img src="https://github.com/YuncongMa/SurfMe/assets/20191790/6fd22f3c-eb87-4305-a559-33fa63552207">
+</p>
 
 **Miscellaneous**
 1. Artwork
+<p align="center">
+  <img src="https://github.com/YuncongMa/SurfMe/assets/20191790/6fd22f3c-eb87-4305-a559-33fa63552207">
+</p>
 2. Horticulture
+<p align="center">
+  <img src="https://github.com/YuncongMa/SurfMe/assets/20191790/6fd22f3c-eb87-4305-a559-33fa63552207">
+</p>
 3. Light Decoration
+<p align="center">
+  <img src="https://github.com/YuncongMa/SurfMe/assets/20191790/6fd22f3c-eb87-4305-a559-33fa63552207">
+</p>
 4. Reading
+<p align="center">
+  <img src="https://github.com/YuncongMa/SurfMe/assets/20191790/6fd22f3c-eb87-4305-a559-33fa63552207">
+</p>
 
 
 ## Main Function
 1. Transportation (aka. My Jeep)
 <p align="center">
-  <img src="https://github.com/YuncongMa/SurfMe/assets/20191790/02e9b461-aa5b-43f2-b676-abc344bbeb41">
+  <img src="https://github.com/YuncongMa/SurfMe/assets/20191790/8e7f0471-9a3a-4f24-94e8-993b0a0749fc">
 </p>
-
 
 
 
