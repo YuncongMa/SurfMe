@@ -48,52 +48,48 @@ How to enjoy more (如何更浪) <br />
 **Food**
 1. Hotpot
 <p align="center">
-  <img src="https://github.com/YuncongMa/SurfMe/assets/20191790/6fd22f3c-eb87-4305-a559-33fa63552207">
+  <img src="/Figure/Hotpot.gif">
 </p>
 2. BBQ
 <p align="center">
-  <img src="https://github.com/YuncongMa/SurfMe/assets/20191790/6fd22f3c-eb87-4305-a559-33fa63552207">
+  <img src="/Figure/BBQ.gif">
 </p>
-3. Soup
+3. Coffee
 <p align="center">
-  <img src="https://github.com/YuncongMa/SurfMe/assets/20191790/6fd22f3c-eb87-4305-a559-33fa63552207">
+  <img src="/Figure/Coffee.gif">
 </p>
-4. Coffee
+4. Wine
 <p align="center">
-  <img src="https://github.com/YuncongMa/SurfMe/assets/20191790/6fd22f3c-eb87-4305-a559-33fa63552207">
+  <img src="/Figure/Wine.gif">
 </p>
-5. Wine
+5. Veggi and Vegan food
 <p align="center">
-  <img src="https://github.com/YuncongMa/SurfMe/assets/20191790/6fd22f3c-eb87-4305-a559-33fa63552207">
-</p>
-6. Veggi and Vegan food
-<p align="center">
-  <img src="https://github.com/YuncongMa/SurfMe/assets/20191790/6fd22f3c-eb87-4305-a559-33fa63552207">
+  <img src="/Figure/Veggi.gif">
 </p>
 
 **Miscellaneous**
 1. Artwork
 <p align="center">
-  <img src="https://github.com/YuncongMa/SurfMe/assets/20191790/6fd22f3c-eb87-4305-a559-33fa63552207">
+  <img src="/Figure/Artwork.gif">
 </p>
 2. Horticulture
 <p align="center">
-  <img src="https://github.com/YuncongMa/SurfMe/assets/20191790/6fd22f3c-eb87-4305-a559-33fa63552207">
+  <img src="/Figure/Horticulutre.gif">
 </p>
 3. Light Decoration
 <p align="center">
-  <img src="https://github.com/YuncongMa/SurfMe/assets/20191790/6fd22f3c-eb87-4305-a559-33fa63552207">
+  <img src="/Figure/Light.gif">
 </p>
 4. Reading
 <p align="center">
-  <img src="https://github.com/YuncongMa/SurfMe/assets/20191790/6fd22f3c-eb87-4305-a559-33fa63552207">
+  <img src="/Figure/Reading.gif">
 </p>
 
 
 ## Main Function
 1. Transportation (aka. My Jeep)
 <p align="center">
-  <img src="https://github.com/YuncongMa/SurfMe/assets/20191790/c995ee74-0d8c-48e7-95da-81172f533d92">
+  <img src="/Figure/MyJeep.gif">
 </p>
 
 
