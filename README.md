@@ -3,7 +3,7 @@ Explore the excitement of outdoor sports, beauty of nature, and bring passion to
 
 **Questions for yourself (扪心自问)**
 
-Why you need to enjoy your life (为什么浪) <br />
+Why you have to enjoy life (为什么浪) <br />
 How to enjoy your life (如何浪) <br />
 Which part of your life can be even better (哪里浪得不足) <br />
 How to enjoy more (如何更浪) <br />
