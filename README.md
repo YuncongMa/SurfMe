@@ -13,7 +13,7 @@ How to enjoy more (如何更浪) <br />
 1. Bouldering
 <p align="center">
   <img src="/Figure/Bouldering.gif">
-</p>!
+</p>
 
 2. Top Roping
 <p align="center">
