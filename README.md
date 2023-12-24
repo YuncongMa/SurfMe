@@ -44,6 +44,11 @@ How to enjoy more (如何更浪) <br />
 <p align="center">
   <img src="/Figure/Hiking.gif">
 </p>
+
+8. Camping
+<p align="center">
+  <img src="/Figure/Camping.gif">
+</p>
    
 **Food**
 1. Hotpot
