@@ -87,7 +87,7 @@ How to enjoy more (如何更浪) <br />
 ## Main Function
 1. Transportation (aka. My Jeep)
 <p align="center">
-  <img src="https://github.com/YuncongMa/SurfMe/assets/20191790/8e7f0471-9a3a-4f24-94e8-993b0a0749fc">
+  <img src="https://github.com/YuncongMa/SurfMe/assets/20191790/c995ee74-0d8c-48e7-95da-81172f533d92">
 </p>
 
 
