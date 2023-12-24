@@ -12,7 +12,7 @@ How to enjoy more (如何更浪) <br />
 **Outdoor sport**
 1. Bouldering
 <p align="center">
-  <img src="https://github.com/YuncongMa/SurfMe/assets/20191790/122a6903-6c9a-409e-8533-a4481a2ca7ec">
+  <img src="/Figure/Bouldering.gif">
 </p>!
 
 2. Top Roping
