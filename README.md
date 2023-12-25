@@ -27,7 +27,7 @@ How to enjoy more (如何更浪) <br />
 
 4. Mountain Biking
 <p align="center">
-  <img src="">
+  <img src="/Figure/MTB.gif">
 </p>
 
 5. Surfing
