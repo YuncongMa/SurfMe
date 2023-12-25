@@ -1,15 +1,17 @@
-# SurfMe (浪荡的我)
-Explore the excitement of outdoor sports, beauty of nature, and bring passion to life
+# SurfMe (浪荡的我）
+## A programmer's monologue （一个程序员的独白)
+## Explore the beauty of nature, strength in yourself, and bring passion to life
 
 **Ask yourself (扪心自问)**
 
-Why you have to enjoy life (为什么浪) <br />
-How to enjoy your life (如何浪) <br />
+Why you have to enjoy life (为什么必须浪) <br />
+How to enjoy your life (如何浪里个浪) <br />
 Which part of your life can be even better (哪里浪得不足) <br />
-How to enjoy more (如何更浪) <br />
+How to enjoy more (如何未来更浪) <br />
 
 ## Type of Fun
 **Outdoor sport**
+
 1. Bouldering
 <p align="center">
   <img src="/Figure/Bouldering.gif">
@@ -55,36 +57,51 @@ How to enjoy more (如何更浪) <br />
 <p align="center">
   <img src="/Figure/Hotpot.gif">
 </p>
+
 2. BBQ
 <p align="center">
   <img src="/Figure/BBQ.gif">
 </p>
+
 3. Coffee
 <p align="center">
   <img src="/Figure/Coffee.gif">
 </p>
+
 4. Wine
 <p align="center">
   <img src="/Figure/Wine.gif">
 </p>
+
 5. Veggi and Vegan food
 <p align="center">
   <img src="/Figure/Veggi.gif">
 </p>
 
 **Miscellaneous**
+
 1. Artwork
 <p align="center">
   <img src="/Figure/Artwork.gif">
 </p>
+
 2. Horticulture
 <p align="center">
   <img src="/Figure/Horticulutre.gif">
 </p>
 
 
+**Wish List**
+
+1. Snowboard
+2. Wind Surf
+3. Surf Sup
+4. Lead Rope
+5. 
+
 
 ## Main Function
+
 1. Transportation (aka. My Jeep)
 <p align="center">
   <img src="/Figure/MyJeep.gif">
