@@ -81,14 +81,7 @@ How to enjoy more (如何更浪) <br />
 <p align="center">
   <img src="/Figure/Horticulutre.gif">
 </p>
-3. Light Decoration
-<p align="center">
-  <img src="/Figure/Light.gif">
-</p>
-4. Reading
-<p align="center">
-  <img src="/Figure/Reading.gif">
-</p>
+
 
 
 ## Main Function
