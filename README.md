@@ -90,6 +90,10 @@ How to enjoy more in the future (未来如何更浪) <br />
   <img src="/Figure/Horticulutre.gif">
 </p>
 
+3. Duck duck me
+<p align="center">
+  <img src="/Figure/Duck.gif">
+</p>
 
 **Wish List**
 
