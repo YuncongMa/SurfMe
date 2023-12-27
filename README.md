@@ -1,8 +1,8 @@
 # SurfMe (浪荡的我）
-## A programmer's monologue （一个程序员的独白)
+
 ## Explore the beauty of nature, strength in yourself, and bring passion to life
 
-**How do you live (你想活出怎样的人生)**
+**How do you live? (你想活出怎样的人生)**
 
 Why you must enjoy your life (为什么必须浪) <br />
 How to have fun in your good life (如何浪里个浪) <br />
