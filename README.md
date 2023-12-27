@@ -4,10 +4,10 @@
 
 **Ask yourself (扪心自问)**
 
-Why you have to enjoy life (为什么必须浪) <br />
-How to enjoy your life (如何浪里个浪) <br />
-Which part of your life can be even better (哪里浪得不足) <br />
-How to enjoy more (未来如何更浪) <br />
+Why you must enjoy your life (为什么必须浪) <br />
+How to have fun in your good life (如何浪里个浪) <br />
+Which part is NOT fun enough yet (哪里浪得不足) <br />
+How to enjoy more in the future (未来如何更浪) <br />
 
 ## Type of Fun
 **Outdoor sport**
