@@ -96,16 +96,16 @@ How to have more fun in the future (未来如何更浪) <br />
 </p>
 
 
-**Wish List**
+**Fun in Comming**
 
 1. Snowboard
 2. Wind Surf
 3. Surf Sup
 4. Lead Rope
-5. 
+...
 
 
-## Main Function
+## Main Platform
 
 1. Transportation (aka. My Jeep)
 <p align="center", width="600">
