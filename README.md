@@ -96,7 +96,7 @@ How to have more fun in the future (未来如何更浪) <br />
 </p>
 
 
-**Fun in Comming**
+**Comming soon**
 
 1. Snowboard
 2. Wind Surf
