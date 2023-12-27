@@ -14,85 +14,85 @@ How to enjoy more in the future (未来如何更浪) <br />
 
 1. Bouldering
 <p align="center">
-  <img src="/Figure/Bouldering.gif">
+  <img src="/Video/Bouldering.gif">
 </p>
 
 2. Top Roping
 <p align="center">
-  <img src="/Figure/TopRoping.gif">
+  <img src="/Video/TopRoping.gif">
 </p>
 
 3. Paddle Boarding
 <p align="center">
-  <img src="/Figure/PaddleBoarding.gif">
+  <img src="/Video/PaddleBoarding.gif">
 </p>
 
 4. Mountain Biking
 <p align="center">
-  <img src="/Figure/MTB.gif">
+  <img src="/Video/MTB.gif">
 </p>
 
 5. Surfing
 <p align="center">
-  <img src="/Figure/Surfing.gif">
+  <img src="/Video/Surfing.gif">
 </p>
 
 6. Off-road Driving
 <p align="center">
-  <img src="/Figure/Offroad.gif">
+  <img src="/Video/Offroad.gif">
 </p>
 
 7. Hiking
 <p align="center">
-  <img src="/Figure/Hiking.gif">
+  <img src="/Video/Hiking.gif">
 </p>
 
 8. Camping
 <p align="center">
-  <img src="/Figure/Camping.gif">
+  <img src="/Video/Camping.gif">
 </p>
    
 **Food**
 1. Hotpot
 <p align="center">
-  <img src="/Figure/Hotpot.gif">
+  <img src="/Video/Hotpot.gif">
 </p>
 
 2. BBQ
 <p align="center">
-  <img src="/Figure/BBQ.gif">
+  <img src="/Video/BBQ.gif">
 </p>
 
 3. Coffee
 <p align="center">
-  <img src="/Figure/Coffee.gif">
+  <img src="/Video/Coffee.gif">
 </p>
 
 4. Wine
 <p align="center">
-  <img src="/Figure/Wine.gif">
+  <img src="/Video/Wine.gif">
 </p>
 
 5. Veggi and Vegan food
 <p align="center">
-  <img src="/Figure/Veggi.gif">
+  <img src="/Video/Veggi.gif">
 </p>
 
 **Miscellaneous**
 
 1. Artwork
 <p align="center">
-  <img src="/Figure/Artwork.gif">
+  <img src="/Video/Artwork.gif">
 </p>
 
 2. Horticulture
 <p align="center">
-  <img src="/Figure/Horticulutre.gif">
+  <img src="/Video/Horticulutre.gif">
 </p>
 
 3. Duck duck me
 <p align="center">
-  <img src="/Figure/Duck.gif">
+  <img src="/Video/Duck.gif">
 </p>
 
 **Wish List**
@@ -108,7 +108,7 @@ How to enjoy more in the future (未来如何更浪) <br />
 
 1. Transportation (aka. My Jeep)
 <p align="center">
-  <img src="/Figure/MyJeep.gif">
+  <img src="/Video/MyJeep.gif">
 </p>
 
 
