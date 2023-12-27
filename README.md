@@ -92,7 +92,7 @@ How to have more fun in the future (未来如何更浪) <br />
 
 2. Horticulture
 <p align="center", width="600">
-  <img src="/Video/Horticulutre.gif", width="600">
+  <img src="/Video/Horticulture.gif", width="600">
 </p>
 
 
