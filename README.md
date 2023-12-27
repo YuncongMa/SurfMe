@@ -9,6 +9,11 @@ How to have fun in your good life (如何浪里个浪) <br />
 Which part is NOT fun enough yet (哪里浪得不足) <br />
 How to enjoy more in the future (未来如何更浪) <br />
 
+## Star, watch and duck me!
+<p align="left">
+  <img src="/Video/Duck.gif", width="400">
+</p>
+
 ## Type of Fun
 **Outdoor sport**
 
@@ -90,10 +95,6 @@ How to enjoy more in the future (未来如何更浪) <br />
   <img src="/Video/Horticulutre.gif">
 </p>
 
-3. Duck duck me
-<p align="center">
-  <img src="/Video/Duck.gif">
-</p>
 
 **Wish List**
 
