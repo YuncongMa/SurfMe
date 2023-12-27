@@ -2,12 +2,12 @@
 ## A programmer's monologue （一个程序员的独白)
 ## Explore the beauty of nature, strength in yourself, and bring passion to life
 
-**Ask yourself (扪心自问)**
+**How do you live (你想活出怎样的人生)**
 
 Why you must enjoy your life (为什么必须浪) <br />
 How to have fun in your good life (如何浪里个浪) <br />
 Which part is NOT fun enough yet (哪里浪得不足) <br />
-How to enjoy more in the future (未来如何更浪) <br />
+How to have more fun in the future (未来如何更浪) <br />
 
 ## Star, watch and duck me!
 <p align="left">
